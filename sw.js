@@ -12,10 +12,6 @@ if (workbox) {
 workbox.precaching.suppressWarnings();  
 workbox.precaching.precacheAndRoute([
   {
-    "url": "detail.html",
-    "revision": "5d1af1d82eae4a949513929cb1165639"
-  },
-  {
     "url": "images/favicon.ico",
     "revision": "3780c065cd18576cbad009fc6ca35c13"
   },
@@ -45,23 +41,11 @@ workbox.precaching.precacheAndRoute([
   },
   {
     "url": "index.html",
-    "revision": "5748a4611c6e88d7cb740e6ff8bb4c6f"
-  },
-  {
-    "url": "js/detail.js",
-    "revision": "660c8a77dc8bd0db6b7e1b6a060c7356"
+    "revision": "6d7088b924f50453220856142ee07eba"
   },
   {
     "url": "js/my-app.js",
     "revision": "a8efe7fe6a2b8fbb986699bd90a479b0"
-  },
-  {
-    "url": "js/routes.js",
-    "revision": "5f2de53ee1bb407cdd2c80de6f589172"
-  },
-  {
-    "url": "js/transfer.js",
-    "revision": "dc72112dbf068cb25e68bd2c55c4040a"
   },
   {
     "url": "libs/framework7.css",
@@ -88,12 +72,8 @@ workbox.precaching.precacheAndRoute([
     "revision": "a826737f3af1f01aa8307c5ab94021eb"
   },
   {
-    "url": "transfer.html",
-    "revision": "c54b000e6c7c8143a32976cacae21dcf"
-  },
-  {
     "url": "workbox-config.js",
-    "revision": "721e18bea15aca290c446ca4c5b7bcb8"
+    "revision": "b42248e9c5b76a719c1994965e0017b5"
   }
 ]);
 

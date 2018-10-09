@@ -1,6 +1,6 @@
 {
-  "short_name": "1f600.app",
-  "name": "Emoji Expense Tracker",
+  "short_name": "fuel.1f600.app",
+  "name": "Emoji fuel Tracker",
   "icons": [
     {
       "src": "/images/icons-48.png",
@@ -37,5 +37,5 @@
   "background_color": "#000000",
   "display": "standalone",
   "orientation": "portrait",
-  "theme_color": "Darkgreen"
+  "theme_color": "Indigo"
 }

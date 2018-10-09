@@ -11,18 +11,4 @@ var routes = [
       }
     }
   },
-  {
-    path: '/detail/',
-    url: './detail.html',
-    on: {
-      pageBeforeIn: function (event, page) {
-        // do something before page gets into the view
-        readdatax();
-      }
-    }
-  },
-  {
-    path: '/transfer/',
-    url: './transfer.html',
-  }
 ];

@@ -1,16 +1,10 @@
-#money {
-    background-color: YellowGreen;
-    font-size: 28px;
-    text-align: center;
-    padding: 8px;
-}
 
 #user {
     font-size: 14px;
 }
 
 .navbar { 
-    background: darkgreen !important; 
+    background: indigo !important; 
     font-size: 24px !important;}
 
 .navbar .title { 
